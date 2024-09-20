@@ -4,6 +4,19 @@
 
 This project aims to implement Drupal in Python using FastAPI, Pydantic, and SQLAlchemy. The goal is to provide a detailed and complete technical documentation for developers, both human and AI, to understand and implement the project.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Development Environment Setup](#development-environment-setup)
+- [Technologies Used](#technologies-used)
+- [Documentation Files](#documentation-files)
+- [Table of Contents](#table-of-contents)
+- [API Documentation](api.md)
+- [Functional Specification](functional-spec.md)
+- [User Interface Design and Layout](ui.md)
+- [Project Architecture](architecture.md)
+- [Implementation Guide](implementation.md)
+- 
 ## Development Environment Setup
 
 To set up the development environment, follow these steps:
@@ -53,15 +66,4 @@ The `docs` directory contains the following files:
 - **architecture.md:** Describes the overall architecture of the project, including a high-level diagram of the system components, data flow, interactions between components, and any design patterns or architectural principles used.
 - **implementation.md:** Provides detailed instructions for implementing the project, including code snippets and examples for key components, database schema and migrations, and information on testing and debugging.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Development Environment Setup](#development-environment-setup)
-- [Technologies Used](#technologies-used)
-- [Documentation Files](#documentation-files)
-- [Table of Contents](#table-of-contents)
-- [API Documentation](api.md)
-- [Functional Specification](functional-spec.md)
-- [User Interface Design and Layout](ui.md)
-- [Project Architecture](architecture.md)
-- [Implementation Guide](implementation.md)
